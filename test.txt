@@ -1,2 +1,2 @@
-Фігури: коло, трикутник, прямокутник, квадрат.
-Shapes: circle, triangle, rectangle, square.
+Фігури: ромб, трикутник, прямокутник, квадрат.
+Shapes: rhombus, triangle, rectangle, square.
